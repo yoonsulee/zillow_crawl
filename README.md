@@ -43,5 +43,5 @@ Please follow the instructions below to run the Ruby codes.
 Unable to download data from https://rubygems.org/ - SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed (https://api.ruby
 gems.org/latest_specs.4.8.gz)
 ```
-refer to the [LINK](https://stackoverflow.com/questions/4528101/ssl-connect-returned-1-errno-0-state-sslv3-read-server-certificate-b-certificat?page=1&tab=active#tab-top)
+refer to the [LINK](https://stackoverflow.com/questions/4528101/ssl-connect-returned-1-errno-0-state-sslv3-read-server-certificate-b-certificat?page=1&tab=active#tab-top).
  
