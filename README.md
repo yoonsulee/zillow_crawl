@@ -2,8 +2,8 @@ This is a web crawler to scrape off residential building information from Zillow
 Please follow the instructions below to run the Ruby codes.
 
 [Run in AWS]
-1. In the AWS console, open up an EC2 instance (currently running on **i-0c78b54c9742571a8** that is a Windows-based t2.micro)
-2. Please ask the instance owner (*yoonsoo.lee@nationalgrid.com*) for the key pair file (.pem) to access the instance.
+1. In the AWS console, open up an EC2 instance 
+2. Please ask the instance owner for the key pair file (.pem) to access the instance.
 3. Log-on to the instance from your preferred terminal:
 ```
    $ ssh -i <key_file_name>.pem ec2-user@54.84.232.26
