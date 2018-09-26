@@ -6,7 +6,7 @@ Please follow the instructions below to run the Ruby codes.
 2. Please ask the instance owner for the key pair file (.pem) to access the instance.
 3. Log-on to the instance from your preferred terminal:
 ```
-   $ ssh -i <key_file_name>.pem ec2-user@54.84.232.26
+   $ ssh -i <key_file_name>.pem ec2-user@**.**.**.***
 ```
 4. Make a directory to clone the web crawl codes.
 ```
@@ -34,7 +34,7 @@ Please follow the instructions below to run the Ruby codes.
 ```
 10. Send the results to S3 bucket (this will be automated in the future)
 ```
-   $ aws s3 cp ./results/JSON/*.json  s3://nationalgrid.web_crawl/zillow    # this is just an example
+   $ aws s3 cp ./results/JSON/*.json  s3://****************   # this is just an example
 ```
 
 [Troubleshooting]
